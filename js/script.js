@@ -5,9 +5,9 @@
   createApp({
     
     data() {
-        
+
       return {
-        message: 'Hello Vue!'
+        titleText: "Testo del titolo!"
       }
 
     }
