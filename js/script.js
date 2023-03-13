@@ -7,7 +7,8 @@
     data() {
 
       return {
-        titleText: "Testo del titolo!"
+        titleText: "Testo del titolo!",
+        imageSrc:"img/cake.png",
       }
 
     }
